@@ -1,0 +1,14 @@
+C:\Users\Ilan Pinhasov\Desktop\dice\bin\Debug\net8.0\dice.exe
+C:\Users\Ilan Pinhasov\Desktop\dice\bin\Debug\net8.0\dice.deps.json
+C:\Users\Ilan Pinhasov\Desktop\dice\bin\Debug\net8.0\dice.runtimeconfig.json
+C:\Users\Ilan Pinhasov\Desktop\dice\bin\Debug\net8.0\dice.dll
+C:\Users\Ilan Pinhasov\Desktop\dice\bin\Debug\net8.0\dice.pdb
+C:\Users\Ilan Pinhasov\Desktop\dice\obj\Debug\net8.0\dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilan Pinhasov\Desktop\dice\obj\Debug\net8.0\dice.AssemblyInfoInputs.cache
+C:\Users\Ilan Pinhasov\Desktop\dice\obj\Debug\net8.0\dice.AssemblyInfo.cs
+C:\Users\Ilan Pinhasov\Desktop\dice\obj\Debug\net8.0\dice.csproj.CoreCompileInputs.cache
+C:\Users\Ilan Pinhasov\Desktop\dice\obj\Debug\net8.0\dice.dll
+C:\Users\Ilan Pinhasov\Desktop\dice\obj\Debug\net8.0\refint\dice.dll
+C:\Users\Ilan Pinhasov\Desktop\dice\obj\Debug\net8.0\dice.pdb
+C:\Users\Ilan Pinhasov\Desktop\dice\obj\Debug\net8.0\dice.genruntimeconfig.cache
+C:\Users\Ilan Pinhasov\Desktop\dice\obj\Debug\net8.0\ref\dice.dll
